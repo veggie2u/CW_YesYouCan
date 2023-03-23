@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For YouCanDoIt
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CAN_IDs	KEYWORD1
+CAN_ID_STRINGS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+createIdentifier	KEYWORD2
+parseIdentifier	KEYWORD2
+getBin16String	KEYWORD2
+getBin8String	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CAN_TYPE	LITERAL1
+CAN_DEVICE	LITERAL1

@@ -1,0 +1,12 @@
+{
+  "name": "YouCanDoIt",
+  "keywords": "CAN, canbus, robotics",
+  "description": "Communicate between various parts of your robot over CAN bus. Contains a list of devices and functions for all parts of a robot.",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
